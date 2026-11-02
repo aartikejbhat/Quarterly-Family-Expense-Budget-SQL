@@ -1,0 +1,15 @@
+category,previous_quarter_expense,monthly_average,next_quarter_budget,difference,status
+Farming,53000,17666.67,54000,1000,Budget Increased
+Livestock,46100,15366.67,46500,400,Budget Increased
+Education,32178,10726,33000,822,Budget Increased
+Health,19999.8,6666.6,21000,1000.2,Budget Increased
+Grocery,15000,5000,19500,4500,Budget Increased
+Transportation,18000,6000,18000,0,No Change
+Utilities,11400,3800,12000,600,Budget Increased
+Housing,7500,2500,7500,0,No Change
+Food,6000,2000,6000,0,No Change
+Personal,5000,1666.67,5100,100,Budget Increased
+Other,4500,1500,4500,0,No Change
+Household,3500,1166.67,4500,1000,Budget Increased
+Pooja Item,600,200,600,0,No Change
+Personal Care,450,150,600,150,Budget Increased

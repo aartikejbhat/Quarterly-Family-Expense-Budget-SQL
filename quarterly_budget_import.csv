@@ -1,0 +1,43 @@
+category_id,budget_month,budget_amount,reason
+1,01-10-2026,18000,Regular farming and seasonal requirements
+1,01-11-2026,18000,Regular farming and seasonal requirements
+1,01-12-2026,18000,Regular farming and seasonal requirements
+2,01-10-2026,15500,Regular animal feed and medical expenses
+2,01-11-2026,15500,Regular animal feed and medical expenses
+2,01-12-2026,15500,Regular animal feed and medical expenses
+3,01-10-2026,11000,Education fees and stationery requirements
+3,01-11-2026,11000,Education fees and stationery requirements
+3,01-12-2026,11000,Education fees and stationery requirements
+4,01-10-2026,7000,Medical expenses are unpredictable
+4,01-11-2026,7000,Medical expenses are unpredictable
+4,01-12-2026,7000,Medical expenses are unpredictable
+5,01-10-2026,6000,Transportation spending remained stable
+5,01-11-2026,6000,Transportation spending remained stable
+5,01-12-2026,6000,Transportation spending remained stable
+6,01-10-2026,6500,Allowance for increasing grocery expenses
+6,01-11-2026,6500,Allowance for increasing grocery expenses
+6,01-12-2026,6500,Allowance for increasing grocery expenses
+7,01-10-2026,4000,Regular utility payments
+7,01-11-2026,4000,Regular utility payments
+7,01-12-2026,4000,Regular utility payments
+8,01-10-2026,2500,Monthly room rent is stable
+8,01-11-2026,2500,Monthly room rent is stable
+8,01-12-2026,2500,Monthly room rent is stable
+9,01-10-2026,2000,Regular mess and food expense
+9,01-11-2026,2000,Regular mess and food expense
+9,01-12-2026,2000,Regular mess and food expense
+10,01-10-2026,1700,Limited personal spending
+10,01-11-2026,1700,Limited personal spending
+10,01-12-2026,1700,Limited personal spending
+11,01-10-2026,1500,Allowance for miscellaneous expenses
+11,01-11-2026,1500,Allowance for miscellaneous expenses
+11,01-12-2026,1500,Allowance for miscellaneous expenses
+12,01-10-2026,1500,Allowance for household miscellaneous expenses
+12,01-11-2026,1500,Allowance for household miscellaneous expenses
+12,01-12-2026,1500,Allowance for household miscellaneous expenses
+13,01-10-2026,200,Regular pooja-related expense
+13,01-11-2026,200,Regular pooja-related expense
+13,01-12-2026,200,Regular pooja-related expense
+14,01-10-2026,200,Regular grooming expense
+14,01-11-2026,200,Regular grooming expense
+14,01-12-2026,200,Regular grooming expense
